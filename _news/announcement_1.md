@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my internship at the [Indian Institute of Science](https://sites.google.com/iisc.ac.in/somabiswas/iacv-lab-iisc). 
+I finished my internship at the [Indian Institute of Science](https://sites.google.com/iisc.ac.in/somabiswas/iacv-lab-iisc). 

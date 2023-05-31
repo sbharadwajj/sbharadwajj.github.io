@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shrisha
 middle_name: 
 last_name: Bharadwaj
-email: you@example.com
+email: shrisha.bharadwaj@tuebingen.mpg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -74,7 +74,7 @@ github_username: sbharadwajj # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: filtercoffeeee # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: shrisha-bharadwaj-617b47101 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: HiA1ObQAAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -127,7 +127,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: false
