@@ -95,7 +95,7 @@ html[data-theme=dark] .repo-img-dark {
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-image: url("header_picture.jpg");
+  background-color: var(--global-bg-color);
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
@@ -264,6 +264,7 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
+  background-image: url("header_picture.jpg");
   opacity: 0.95;
 }
 
