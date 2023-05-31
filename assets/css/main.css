@@ -290,6 +290,9 @@ blockquote {
   background-color: var(--global-bg-color);
 }
 
+.navbar.navbar-light {
+  background-color: var(--global-bg-color);
+}
 .navbar.navbar-light a:hover {
   text-decoration: none;
 }
