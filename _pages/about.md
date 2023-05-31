@@ -11,13 +11,19 @@ profile:
   address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a full-time research intern at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
+
+My research interest lies in the intersection of computer vision and computer graphics. I am particularly interested in reconstructing 3D models from 2D images.
+
+I completed my masters in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/) and I worked in the Autonomous Vision Group for my masters thesis, supervised by [Andreas Geiger](https://www.cvlibs.net/). My thesis focused on improving 3D reconstruction of static urban environments by exploring the benefits of depth information for radiance fields.
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
