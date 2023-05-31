@@ -6,8 +6,8 @@ subtitle: `Research Intern` at Perceiving Systems, MPI-IS, Tübingen
 
 profile:
   align: right
-  image: profile_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile_pic.jpeg
+  image_circular: True # crops the image to make it circular
   address: 
 
 news: true  # includes a list of news items
