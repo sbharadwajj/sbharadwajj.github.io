@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Intern</a> at Perceiving Systems, MPI-IS, Tübingen
+subtitle: `Research Intern` at Perceiving Systems, MPI-IS, Tübingen
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   address: 
 
