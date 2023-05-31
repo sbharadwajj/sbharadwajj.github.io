@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: `Research Intern` at Perceiving Systems, MPI-IS, Tübingen
+subtitle: Research Intern at Perceiving Systems, MPI-IS, Tübingen
 
 profile:
   align: right
