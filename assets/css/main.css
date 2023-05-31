@@ -96,6 +96,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  background-image: url("header_picture.jpg");
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
@@ -103,7 +104,6 @@ body h1, body h2, body h3, body h4, body h5, body h6 {
 
 body.fixed-top-nav {
   padding-top: 56px;
-  background-image: url("header_picture.jpg");
 }
 
 body.sticky-bottom-footer {
