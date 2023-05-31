@@ -201,6 +201,8 @@ blockquote {
 }
 
 .navbar.navbar-light {
+  background-color: var(--global-bg-color);
+  
   a {
     &:hover {
       text-decoration: none;
