@@ -171,6 +171,7 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   background-image: url("/assets/img/nav_bar_img.jpg");
+  background-repeat: no-repeat;
 }
 
 .navbar .dropdown-menu {
