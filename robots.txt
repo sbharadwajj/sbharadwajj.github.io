@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sbharadwajj.github.io/sbharadwajj.github.io/sitemap.xml
+Sitemap: https://sbharadwajj.github.io/sitemap.xml
