@@ -172,18 +172,6 @@ blockquote {
   background-image: url("/assets/img/nav_bar_img.jpg");
   background-color: var(--global-bg-color);
   background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.navbar::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: var(--global-bg-color); /* Set the same background color as the navbar */
 }
 
 .navbar .dropdown-menu {
