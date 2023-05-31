@@ -95,7 +95,6 @@ html[data-theme=dark] .repo-img-dark {
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
   background-image: url("header_picture.jpg");
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
