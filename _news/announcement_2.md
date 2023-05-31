@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my masters degree! <img src="assets/img/monstera-leaf.png" width="50" height="50">
+I completed my masters degree! <img src="assets/img/monstera-leaf.png" width="30" height="30">
