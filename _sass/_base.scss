@@ -166,6 +166,10 @@ blockquote {
 
 // Navbar customization
 
+.navbar-container {
+  background-color:var(--global-bg-color);
+}
+
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
