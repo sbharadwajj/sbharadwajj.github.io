@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper FLARE got accepted at SIGGRAPH Asia '23!. 
+Our paper [FLARE](https://flare.is.tue.mpg.de/) got accepted at SIGGRAPH Asia '23!
