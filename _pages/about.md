@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern at Perceiving Systems, MPI-IS, Tübingen
+subtitle: Ph.D. at Perceiving Systems, MPI-IS, Tübingen
 
 profile:
   align: right
@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a full-time research intern at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
+I am a Ph.D. student at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
 
-My research interest lies in the intersection of computer vision and computer graphics. I am particularly interested in reconstructing 3D models from 2D images.
+My research interest lies in the intersection of computer vision and computer graphics. I am particularly interested in relighting and inverse rendering.
 
 I completed my masters in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/) and I worked in the Autonomous Vision Group for my masters thesis, supervised by [Andreas Geiger](https://www.cvlibs.net/). My thesis focused on improving 3D reconstruction of static urban environments by exploring the benefits of depth information for radiance fields.
 
