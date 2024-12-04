@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FLARE](https://flare.is.tue.mpg.de/): Preprocessed data and model weights released for 9 subjects (HERE)[https://flare.is.tue.mpg.de/download.php]!!
+[FLARE](https://flare.is.tue.mpg.de/): Preprocessed data and model weights released for 9 subjects [HERE](https://flare.is.tue.mpg.de/download.php)!!
