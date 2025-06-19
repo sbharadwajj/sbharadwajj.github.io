@@ -72,7 +72,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: sbharadwajj # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: sbharadwaj__ # your Twitter handle
+# twitter_username: sbharadwaj__ # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shrisha-bharadwaj-617b47101 # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -103,6 +103,7 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
+bluesky_url: https://web-cdn.bsky.app/profile/did:plc:td6m2pv2u2mw4l2v7jjxjtw3 # your Bluesky profile URL
 
 contact_note: 
 
@@ -226,7 +227,6 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
-  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings

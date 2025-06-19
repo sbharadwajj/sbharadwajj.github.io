@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
+I am a Ph.D. student at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael J. Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
 
 My research interest lies in the intersection of computer vision and computer graphics. I am particularly interested in relighting and inverse rendering.
 
