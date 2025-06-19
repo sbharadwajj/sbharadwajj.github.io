@@ -608,6 +608,11 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
+  font-size: 1.2rem;
+}
+.publications ol.bibliography li .author {
+  line-height: 1.4;
+  word-wrap: break-word;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
@@ -619,6 +624,7 @@ footer.sticky-bottom {
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
   font-style: normal;
+  color: #4e615b;
 }
 .publications ol.bibliography li .author > span.more-authors {
   color: var(--global-text-color-light);
@@ -637,6 +643,7 @@ footer.sticky-bottom {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   margin-left: 0;
+  background-color: #ece6da;
 }
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
