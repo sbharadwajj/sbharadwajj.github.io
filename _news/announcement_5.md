@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my Ph.D. at Perceiving Systems. <img src="assets/img/coniferous_tree.jpg" width="30" height="30">
+I started my Ph.D. at Max-Planck Institute for Intelligent Systems! <img src="assets/img/sakura-tree.png" width="30" height="30">
