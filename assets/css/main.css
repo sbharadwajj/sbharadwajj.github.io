@@ -243,7 +243,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 18%;
+    width: 16%;
   }
   .profile .address p {
     display: block;
@@ -272,7 +272,6 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-image: url("/assets/img/header_picture.gif");
   background-color: var(--global-bg-color);
   background-repeat: no-repeat;
 }
