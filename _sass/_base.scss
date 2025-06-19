@@ -637,7 +637,7 @@ footer.sticky-bottom {
         >em {
           border-bottom: 1px solid;
           font-style: normal;
-          color: #4e615b;
+          color: #4e615b !important;
         }
 
         >span.more-authors {
@@ -652,20 +652,27 @@ footer.sticky-bottom {
         }
       }
 
+      .author em {
+        color: #4e615b !important;
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          border: none;
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
-          background-color: #ece6da;
+          background-color: #ece6da !important;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          transition: box-shadow 0.2s ease;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
           }
         }
       }
