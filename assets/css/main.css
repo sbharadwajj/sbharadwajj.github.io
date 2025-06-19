@@ -222,8 +222,6 @@ blockquote {
 
 .profile {
   width: 100%;
-  vertical-align: top;
-  display: inline-block;
 }
 .profile .address {
   margin-bottom: 5px;
@@ -237,20 +235,15 @@ blockquote {
 
 .profile.float-right {
   margin-left: 1rem;
-  float: right;
-  margin-top: 0;
 }
 
 .profile.float-left {
   margin-right: 1rem;
-  float: left;
-  margin-top: 0;
 }
 
 @media (min-width: 576px) {
   .profile {
     width: 20%;
-    vertical-align: top;
   }
   .profile .address p {
     display: block;
@@ -270,13 +263,6 @@ blockquote {
 
 .clearfix {
   overflow: hidden;
-}
-
-.post article {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 1rem;
 }
 
 .navbar-container {
@@ -954,19 +940,19 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 
 .post-header .desc {
-  font-size: 1.3rem;
-  color: #5a7c65;
+  font-size: 1.1rem;
+  color: var(--global-text-color);
   font-weight: 500;
 }
 .post-header .desc a {
-  color: #5a7c65;
+  color: var(--global-text-color);
   text-decoration: none;
-  border-bottom: 1px solid #5a7c65;
+  border-bottom: 1px solid var(--global-text-color);
   transition: color 0.2s ease;
 }
 .post-header .desc a:hover {
-  color: #4a6b55;
-  border-bottom-color: #4a6b55;
+  color: var(--global-theme-color);
+  border-bottom-color: var(--global-theme-color);
 }
 
 /*******************************************************************************
