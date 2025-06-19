@@ -10,8 +10,8 @@
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
-  --global-theme-color: #CC6542;
-  --global-hover-color: #CC6542;
+  --global-theme-color: #2d5a2d;
+  --global-hover-color: #2d5a2d;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #e8e8e8;
@@ -243,7 +243,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
   }
   .profile .address p {
     display: block;
@@ -583,8 +583,8 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .preview {
   width: 100%;
-  min-width: 80px;
-  max-width: 200px;
+  min-width: 60px;
+  max-width: 150px;
 }
 .publications ol.bibliography li .abbr {
   height: 2rem;
