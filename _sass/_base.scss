@@ -618,9 +618,13 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        font-size: 1.2rem;
       }
 
       .author {
+        line-height: 1.4;
+        word-wrap: break-word;
+        
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -633,6 +637,7 @@ footer.sticky-bottom {
         >em {
           border-bottom: 1px solid;
           font-style: normal;
+          color: #4e615b;
         }
 
         >span.more-authors {
@@ -656,6 +661,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
+          background-color: #ece6da;
 
           &:hover {
             color: var(--global-theme-color);
