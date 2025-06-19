@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. at Perceiving Systems, MPI-IS, Tübingen
+subtitle: Ph.D. at <a href="https://is.mpg.de/ps/" target="_blank">Perceiving Systems</a>, <a href="https://is.mpg.de/" target="_blank">Max-Planck Institute for Intelligent Systems</a>, Tübingen, Germany
 
 profile:
   align: right
@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at the [Perceiving Systems Department](https://ps.is.mpg.de/) at Max-Planck Institute of Intelligent Systems, Tübingen, Germany. I am advised by [Michael J. Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/).
+I am advised by [Michael J. Black](https://ps.is.mpg.de/person/black) and [Victoria Fernández Abrevaya](https://vabrevaya.github.io/). My research interest lies in the intersection of computer vision and computer graphics, particularly, in relighting. I have worked on inverse rendering and 3D reconstruction in the past. In constrast, I am currently exploring if relighting can be achieved through neural rendering without explicitly modeling the geometry, material and lighting. 
 
-My research interest lies in the intersection of computer vision and computer graphics. I am particularly interested in relighting and inverse rendering.
-
-I completed my masters in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/machine-learning/) and I worked in the Autonomous Vision Group for my masters thesis, supervised by [Andreas Geiger](https://www.cvlibs.net/). My thesis focused on improving 3D reconstruction of static urban environments by exploring the benefits of depth information for radiance fields.
+I completed my masters in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/machine-learning-master/). For my masters thesis, I worked on improving 3D reconstruction by exploring the benefits of depth information for radiance fields at [Autonomous Vision Group](https://www.cvlibs.net/index.php). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
