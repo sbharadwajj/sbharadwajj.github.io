@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. at <a href="https://is.mpg.de/ps/" target="_blank">Perceiving Systems</a>, <a href="https://is.mpg.de/" target="_blank">Max-Planck Institute for Intelligent Systems</a>, Tübingen, Germany
+subtitle: Ph.D. at Max-Planck Institute for Intelligent Systems, Germany
 
 profile:
   align: right
