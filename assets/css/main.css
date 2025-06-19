@@ -111,7 +111,7 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1100px;
 }
 
 .profile img {
@@ -243,7 +243,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 20%;
+    width: 18%;
   }
   .profile .address p {
     display: block;
