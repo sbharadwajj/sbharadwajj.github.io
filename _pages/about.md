@@ -20,6 +20,8 @@ I am advised by [Michael J. Black](https://ps.is.mpg.de/person/black) and [Victo
 
 I completed my masters in Machine Learning at the [University of Tübingen](https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/machine-learning-master/). For my masters thesis, I worked on improving 3D reconstruction by exploring the benefits of depth information for radiance fields at [Autonomous Vision Group](https://www.cvlibs.net/index.php). 
 
+<span style="color: red;">Note: I am searching for an internship starting summer/fall 2026!</span> 
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
