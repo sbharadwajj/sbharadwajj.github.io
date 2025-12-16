@@ -140,10 +140,19 @@ blockquote {
 @media (max-width: 575px) {
   .profile.float-right,
   .profile.float-left {
-    float: none;
+    float: none !important;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 1rem;
+    width: 100%;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  
+  .clearfix {
+    overflow: visible;
   }
 }
 
@@ -686,7 +695,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
-          background-color: #ece6da !important;
+          background-color: var(--global-card-bg-color);
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
           transition: box-shadow 0.2s ease;
 
