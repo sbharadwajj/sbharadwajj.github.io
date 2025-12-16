@@ -137,6 +137,16 @@ blockquote {
   margin-right: 1rem;
 }
 
+@media (max-width: 575px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 16%;
