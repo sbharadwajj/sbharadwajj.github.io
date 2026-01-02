@@ -1,8 +1,0 @@
----
-layout: post
-date: 2025-10-01
-inline: true
-related_posts: false
----
-
-[GenLit](https://genlit.is.tue.mpg.de/) is accepted at SIGGRAPH Asia '25 and we released the <span style="color: darkblue;">updated document</span>! <img src="assets/img/bamboo-tree.png" width="30" height="30">
