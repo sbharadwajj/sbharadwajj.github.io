@@ -32,8 +32,8 @@ body{
   position: fixed;
   top: 0;
   bottom: 0;
-  width: calc((100vw - var(--maxw)) / 2);
-  min-width: 0;
+  width: calc((100% - var(--maxw)) / 2);
+  min-width: 100px;
   background-image: url('../assets/img/bg-image.png');
   background-repeat: repeat;
   background-size: auto;
@@ -61,6 +61,8 @@ code{
   max-width: var(--maxw);
   margin: 14px auto 28px;
   padding: 0 24px;
+  box-sizing: border-box;
+  position: relative;
 }
 
 /* Top nav (fixed header) */
@@ -101,6 +103,7 @@ code{
   align-items: flex-start;
   gap: 24px;
   margin-bottom: 14px;
+  width: 100%; /* Ensure full width of container */
 }
 .name-photo{
   display: flex;
@@ -179,7 +182,10 @@ code{
 }
 
 /* Sections */
-.section{ margin-top: 20px; }
+.section{ 
+  margin-top: 20px; 
+  width: 100%; /* Ensure full width of container */
+}
 .sectionhead{
   display:flex;
   align-items: center;
@@ -239,6 +245,7 @@ h2{
   flex-wrap: wrap;
   align-items: center;
   gap: 10px;
+  width: 100%; /* Ensure full width of container */
 }
 .pubControlsLabel{ color: var(--header-gray); }
 .pubControls input[type="search"]{
@@ -271,6 +278,7 @@ h2{
   grid-template-columns: 180px 1fr;
   gap: 16px;
   margin: 0 0 14px 0;
+  width: 100%; /* Ensure full width of container */
 }
 .pubMedia img{
   width: var(--w, 180px);
@@ -395,19 +403,22 @@ h2{
 .footTrees img{ width: 24px; height: 24px; }
 
 /* Mobile: Keep same layout as desktop, just scaled - users can zoom if needed */
-/* Force minimum width to maintain desktop layout on all devices */
-html {
-  min-width: 1200px;
-}
-body {
-  min-width: 1200px;
-}
-.page {
-  min-width: 1200px;
-}
-.topnav {
-  min-width: 1200px;
-}
-.topnav-inner {
-  min-width: 1200px;
+/* Only apply min-width constraints on small screens to maintain desktop layout */
+@media screen and (max-width: 1400px) {
+  html {
+    min-width: 1200px;
+  }
+  body {
+    min-width: 1200px;
+  }
+  .page {
+    min-width: 1200px;
+    width: 1200px;
+  }
+  .topnav {
+    min-width: 1200px;
+  }
+  .topnav-inner {
+    min-width: 1200px;
+  }
 }
