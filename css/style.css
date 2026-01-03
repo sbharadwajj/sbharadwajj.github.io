@@ -394,13 +394,5 @@ h2{
 }
 .footTrees img{ width: 24px; height: 24px; }
 
-@media (max-width: 720px){
-  body{ padding-top: 70px; }
-  .page{ margin-top: 8px; }
-  .titleline{ flex-direction: column; }
-  .name-photo{ width: 100%; }
-  .titleline h1{ font-size: 38px; }
-  .portrait{ width: 160px; }
-  .pub{ grid-template-columns: 1fr; }
-  .decorative-line{ display: none; }
-}
+/* Mobile: Keep same layout as desktop, just scaled - users can zoom if needed */
+/* Removed responsive breakpoints to maintain desktop layout on all devices */
