@@ -183,6 +183,19 @@ function formatAuthors(authorField, authorLinks = {}, sharedAuthors = []){
   return result;
 }
 
+function formatDatePretty(date){
+  if(!(date instanceof Date) || isNaN(date)) return "";
+  return date.toLocaleDateString("en-US", {month:"short", day:"numeric", year:"numeric"});
+}
+
+function setLastUpdated(){
+  const el = document.getElementById("last-updated");
+  if(!el) return;
+  const parsed = new Date(document.lastModified);
+  const formatted = formatDatePretty(parsed) || formatDatePretty(new Date());
+  if(formatted) el.textContent = formatted;
+}
+
 function escapeHTML(s){
   return (s || "").toString().replace(/[&<>"']/g, c => ({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
@@ -375,6 +388,9 @@ function renderNews(news){
 }
 
 async function main(){
+  // Footer timestamp
+  setLastUpdated();
+
   // News
   const news = await fetchJSON("data/news.json");
   renderNews(news);
