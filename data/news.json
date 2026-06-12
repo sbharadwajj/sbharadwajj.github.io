@@ -1,10 +1,14 @@
 [{
-  "date":"Jun 1, 2026",
-  "html":"I am very excited to intern at NVIDIA this summer at the <a href=\"https://research.nvidia.com/labs/rtr/\">Real-Time Graphics Group</a>. I will be at Santa Clara. "
+  "date":"Jun 12, 2026",
+  "html":"Genlit <a href=\"https://github.com/sbharadwajj/genlit\">inference code</a> and <a href=\"https://huggingface.co/sbharadwaj/genlit\">model weights</a> on huggingface are released. "
 },
   {
   "date":"Jun 1, 2026",
-  "html":"I am delighted to share that I was selected as a <a href=\"https://www.wigraph.org\">WiGRAPH Rising Star</a> in Computer Graphics!! <img src=\"assets/img/plant.png\" alt=\"plant\" width=\"20\" height=\"20\">"
+  "html":"I am very excited to intern at NVIDIA this summer at the <a href=\"https://research.nvidia.com/labs/rtr/\">Real-Time Graphics Group</a>. I will be in Santa Clara. "
+},
+  {
+  "date":"Jun 1, 2026",
+  "html":"I am delighted to share that I was selected as a <a href=\"https://www.wigraph.org/spotlights/meet-our-rising-stars-2026\">WiGRAPH Rising Star</a> in Computer Graphics!! <img src=\"assets/img/plant.png\" alt=\"plant\" width=\"20\" height=\"20\">"
 },
   {
     "date": "Jan 7, 2026",
